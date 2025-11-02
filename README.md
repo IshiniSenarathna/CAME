@@ -1,19 +1,26 @@
 # CAME
 
-Description of your project goes here.
+A system for computer-aided manufacturing education.
 
-## Installation
+## Features
 
-Add installation instructions here.
+- Feature 1
+- Feature 2
+- Feature 3
 
-## Usage
+## Getting Started
 
-Add usage instructions here.
+1. Clone the repository
+   ```bash
+   git clone https://github.com/IshiniSenarathna/CAME.git
+   ```
 
-## Contributing
+2. Open the project in your preferred code editor
 
-Add contribution guidelines here.
+## Technologies Used
 
-## License
+- List your technologies here
 
-Add license information here.
+## Contact
+
+Created by @IshiniSenarathna
