@@ -1,10 +1,7 @@
-# CAME (Computer-Aided Manufacturing Education)
-
-A comprehensive educational system designed to facilitate learning in computer-aided manufacturing.
+# CAME
 
 ## Project Overview
 
-This project aims to provide an interactive platform for students and educators in the field of computer-aided manufacturing.
 
 ## Features
 
